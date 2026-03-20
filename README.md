@@ -1,2 +1,2 @@
-# yae3pm
-yet another ender 3 pro mod
+# yaecm
+yet another ender conversion mod
